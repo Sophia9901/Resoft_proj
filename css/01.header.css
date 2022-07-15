@@ -156,6 +156,10 @@
     display: none;
 }
 
+#gnb_m {
+  display: block;
+}
+
 .wrapper .top_wrap {
     display: inline;
 }
@@ -207,10 +211,6 @@
 /* #gnb {
     width: 100%;
 } */
-
-#gnb_m {
-    display: block;
-}
 
 /* #gnb ul {
     display: none;

@@ -11,7 +11,7 @@ footer {
   width: 100%;
   clear: both;
   position: relative;
-  background: var(--navy-color)
+  background: #fff;
 }
 .footer_wrap {
   background-image: url('../img/footer2.png');
